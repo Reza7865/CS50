@@ -1,5 +1,5 @@
 /***  Code by: Reza Jafar
-Assignment: Suffice it to say that the longer you shower, the more water you use. But just how much? 
+**Assignment:** Suffice it to say that the longer you shower, the more water you use. But just how much? 
 Even if you have a "low-flow" showerhead, odds are your shower spits out 1.5 gallons of water 
 per minute. A gallon, meanwhile, is 128 ounces, and so that shower spits out 1.5 × 128 = 192 
 ounces of water per minute. A typical bottle of water (that you might have for a drink, not a shower), meanwhile, 
