@@ -1,4 +1,5 @@
-Code by: Reza Jafar
+/* Code by: Reza Jafar
+
 Assignment: Suffice it to say that the longer you shower, the more water you use. But just how much? 
 Even if you have a "low-flow" showerhead, odds are your shower spits out 1.5 gallons of water 
 per minute. A gallon, meanwhile, is 128 ounces, and so that shower spits out 1.5 × 128 = 192 
@@ -13,9 +14,11 @@ of water (as an integer) per the sample output below, wherein underlined text re
 username:~/workspace/pset1 $ ./water
 minutes: 10
 bottles: 120
+
 For simplicity, you may assume that the user will input a positive integer, so no need for error-checking (or any loops)
 this time! And no need to worry about overflow!
 
+*/
 
 #include <stdio.h>
 #include <cs50.h>
